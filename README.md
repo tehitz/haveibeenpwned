@@ -9,6 +9,7 @@ First of all, remember to chmod that file to be executable or run it in Python 3
 You will need Python 3 in order to run this program. 
 
 Usage: 
+
 $ python3 pwned.py 
 Enter a password to be hashed: asdf
 Hashed password: 3DA541559918A808C2402BBA5012F6C60B27661C
