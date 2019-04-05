@@ -9,8 +9,6 @@ def hash_password(password):
     hex_dig = hex_dig.upper()
     print("Hashed password: " + hex_dig)
 
-    #hash_start = hex_dig[0:5]
-    #end_hash = hex_dig[5:]
     return hex_dig
 
 
