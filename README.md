@@ -11,15 +11,25 @@ You will need Python 3 in order to run this program.
 Usage: 
 
 $ python3 pwned.py 
+
 Enter a password to be hashed: asdf
+
 Hashed password: 3DA541559918A808C2402BBA5012F6C60B27661C
+
 Your password hash 3DA541559918A808C2402BBA5012F6C60B27661C has been used 313219 times
+
 Would you like to search another hashed password? (y/n) 
+
 y
+
 Enter a password to be hashed: pasdf
+
 Hashed password: FC0BCC818FB8965927874DC83C275F9A94E9E748
+
 Your password hash FC0BCC818FB8965927874DC83C275F9A94E9E748 has been used 13 times
+
 Would you like to search another hashed password? (y/n)
+
 n
 
 # Acknowledgements
